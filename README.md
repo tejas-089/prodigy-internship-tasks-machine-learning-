@@ -1,41 +1,98 @@
-# Prodigy InfoTech Machine Learning Internship
+# 🤖 Prodigy InfoTech — Machine Learning Internship
 
-This repository contains all the Machine Learning projects completed during my virtual internship at **Prodigy InfoTech**. Each task demonstrates the implementation of fundamental machine learning algorithms, data preprocessing techniques, model training, and performance evaluation using Python and popular ML libraries.
+## 📌 Overview
 
-## Tasks
+This repository contains the machine learning projects completed during my **Machine Learning Internship at Prodigy InfoTech**.
 
-### Task 1 – House Price Prediction
-- Built a Linear Regression model to predict house prices.
-- Performed data preprocessing and feature selection.
-- Evaluated model performance using regression metrics.
+The internship provided hands-on experience with **supervised learning, unsupervised learning, classification, regression, clustering, and computer vision** using Python and popular machine learning libraries.
 
-### Task 2 – Customer Segmentation
-- Implemented K-Means Clustering for customer segmentation.
-- Applied data scaling and cluster visualization.
-- Identified customer groups based on purchasing behavior.
+---
 
-### Task 3 – Cat vs Dog Image Classification
-- Developed an SVM classifier for image classification.
-- Extracted image features and trained the model.
-- Evaluated classification accuracy.
+## 📚 Tasks Completed
 
-### Task 4 – Hand Gesture Recognition
-- Built a real-time hand gesture recognition system.
-- Used computer vision techniques with OpenCV.
-- Detected and classified hand gestures from webcam input.
+| Task       | Project                       | Technique                               |
+| ---------- | ----------------------------- | --------------------------------------- |
+| **Task 1** | 🏠 House Price Prediction     | Linear Regression                       |
+| **Task 2** | 🛍️ Customer Segmentation     | K-Means Clustering                      |
+| **Task 3** | 🐱🐶 Cat & Dog Classification | Support Vector Machine (SVM)            |
+| **Task 4** | ✋ Hand Gesture Recognition    | Machine Learning / Image Classification |
 
-## Technologies Used
+---
 
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- OpenCV
+## 🗂️ Repository Structure
 
-## Author
+```text
+prodigy-internship-tasks-machine-learning/
+│
+├── Task-1-House-Price-Prediction-using-Linear-Regression/
+│   ├── house_price_prediction.ipynb
+│   └── README.md
+│
+├── Task-2-Customer-Segmentation-using-KMeans/
+│   ├── mall_data.ipynb
+│   └── README.md
+│
+├── Task-3-SVM-Cat-Dog-Classification/
+│   ├── svm.ipynb
+│   ├── submission.csv
+│   └── README.md
+│
+├── Task-4-Hand-Gesture-Recognition/
+│   ├── hand_gesture_recognition.ipynb
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+## 🛠️ Technologies & Tools
+
+* **Python**
+* **Jupyter Notebook**
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+* **Scikit-learn**
+* **Machine Learning**
+* **Data Analysis**
+* **Computer Vision**
+
+---
+
+## 🧠 Machine Learning Concepts
+
+Through these projects, I gained practical experience with:
+
+* Linear Regression
+* K-Means Clustering
+* Support Vector Machines
+* Classification
+* Data Preprocessing
+* Feature Preparation
+* Model Training
+* Model Evaluation
+* Image Classification
+* Customer Segmentation
+* Computer Vision
+
+---
+
+## 🎯 Internship Objective
+
+The goal of these projects was to gain practical experience in developing machine learning solutions, working with real-world datasets, preprocessing data, training models, evaluating results, and applying machine learning techniques to different problems.
+
+---
+
+## 👨‍💻 Author
 
 **Tejas Suradkar**
 
-Machine Learning Intern at Prodigy InfoTech
+Machine Learning Intern — **Prodigy InfoTech**
+
+---
+
+## ⭐ Acknowledgement
+
+Thanks to **Prodigy InfoTech** for providing the opportunity to gain practical experience through this Machine Learning Internship.
+
